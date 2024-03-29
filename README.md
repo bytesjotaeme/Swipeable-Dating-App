@@ -3,4 +3,4 @@ Este código crea una interfaz básica de tipo Tinder donde los usuarios pueden 
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla](preview.png.PNG)
+![Captura de Pantalla]([preview.png.PNG](https://github.com/bytesjotaeme/Swipeable-Dating-App/blob/main/preview.png))
