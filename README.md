@@ -3,4 +3,4 @@ Este código crea una interfaz básica de tipo Tinder donde los usuarios pueden 
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla](preview.png)
+![Captura de Pantalla](preview.PNG)
